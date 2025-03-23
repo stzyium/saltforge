@@ -9,8 +9,7 @@
 # - Two-level security system with PBKDF2 key derivation
 # - Configurable salt length and iteration count
 
-# Author: stzyium@github.com
-# Created: March 2025
+# Author: stzyium@github
 # License: MIT
 # Version: 1-end
 
