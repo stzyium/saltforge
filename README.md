@@ -106,7 +106,6 @@ Provides methods for hashing passwords:
 ## Security Considerations
 
 - The system uses built-in Python cryptographic functions which are well-tested
-- Security Level 2 is recommended for sensitive applications
 - Increase iterations for PBKDF2 for additional security (with performance trade-offs)
 - Supported algorithms are from Python's hashlib.algorithms_guaranteed
 
