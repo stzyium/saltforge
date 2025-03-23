@@ -8,9 +8,9 @@ This Python-based password security system provides robust mechanisms for passwo
 
 ## Features
 
-- Multiple cryptographic algorithm support (SHA-256, SHA-512, etc.)
+- Multiple cryptographic algorithm (SHA-256, SHA-512, etc.)
 - Custom salting implementation for enhanced security
-- Two security levels with different protection mechanisms
+- Customizable
 - Configurable salt length and password limits
 - Simple interface for storing and verifying passwords
 
@@ -18,10 +18,10 @@ This Python-based password security system provides robust mechanisms for passwo
 
 ```bash
 # Clone the repository
-git clone https://github.com/stzyium/secure-pasword-hashing password
+git clone https://github.com/stzyium/saltforge
 
 # Navigate to the project directory
-cd password
+cd saltforge
 python SecurePassword.py
 # No external dependencies required - uses standard Python libraries
 ```
